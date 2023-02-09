@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="yinyuan">
+    <output-path>$PROJECT_DIR$/out/artifacts/yinyuan</output-path>
+    <root id="root" />
+  </artifact>
+</component>
